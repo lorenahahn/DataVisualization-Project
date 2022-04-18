@@ -1,0 +1,16 @@
+json
+unicodedata
+plotly
+dash
+dash-html-components
+dash-core-components
+dash-dependencies
+plotly-express
+urllib-request
+plotly-subplots
+plotly-graph-objs
+plotly-figure-factory
+dash-bootstrap-components
+plotly-sublots
+pandas
+numpy
